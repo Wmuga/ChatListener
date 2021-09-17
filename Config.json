@@ -1,0 +1,6 @@
+﻿{
+  "channels": ["#wmuga", "#iarspider", "#cwelth", "#nuriksakura", "#twistr_game", "#moar__", "#prayda_alpha", "#babytigeronthesunflower", "#jon_cs", "#rustamdobryi", "#womens_games", "#kochetov2000", "#owlsforever", "#kaev_i","#kinishina"],
+  "not-log": ["pretzelrocks"],
+  "log-path": "D:\\Desktop\\Side Goods\\TwitchChatLogs",
+  "ping-sound": "D:\\Desktop\\Side Goods\\ChatListener\\ChatListener\\ping.wav"
+}
